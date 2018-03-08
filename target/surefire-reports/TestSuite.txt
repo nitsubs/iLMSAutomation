@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 48.991 sec <<< FAILURE! - in TestSuite
+verifyInvalidLogin(com.iel.automation.testcases.LoginTest)  Time elapsed: 0.489 sec  <<< FAILURE!
+java.lang.AssertionError: Username or Password is incorrect expected [http://staging.inspiredlms.com/user/master.aspx] but found [https://ilmsdevqa.inspiredlms.com/admin/login]
+	at com.iel.automation.testcases.LoginTest.verifyInvalidLogin(LoginTest.java:45)
+

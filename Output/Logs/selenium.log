@@ -1,0 +1,164 @@
+2018-02-23T11:21:23.306 [iel] INFO  [com.iel.automation.pages.LoginPage] - Entered UserName
+2018-02-23T11:21:23.408 [iel] INFO  [com.iel.automation.pages.LoginPage] - Entered Password
+2018-02-23T11:21:31.362 [iel] INFO  [com.iel.automation.pages.LoginPage] - Clicked on login button
+2018-02-23T11:21:32.863 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Clicked on organization link
+2018-02-23T11:21:46.185 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Clicked on Add organization link
+2018-02-23T11:21:46.544 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Entered Organization Name
+2018-02-23T11:21:46.793 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Entered Organization custom Url 
+2018-02-23T11:21:46.900 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Entered first name 
+2018-02-23T11:21:47.023 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Entered Last name 
+2018-02-23T11:21:47.097 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Entered Email ID 
+2018-02-23T11:21:47.170 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Entered Default Password
+2018-02-23T11:21:47.415 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Selected IComposer 
+2018-02-23T11:21:47.653 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Selected IConstructor
+2018-02-23T11:21:50.686 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Clicked on Save button
+2018-02-23T11:22:04.572 [iel] INFO  [com.iel.automation.testcases.LoginTest] - Test execution started
+2018-02-23T11:22:04.698 [iel] INFO  [com.iel.automation.pages.LoginPage] - Entered UserName
+2018-02-23T11:22:04.761 [iel] INFO  [com.iel.automation.pages.LoginPage] - Entered Password
+2018-02-23T11:22:06.032 [iel] INFO  [com.iel.automation.pages.LoginPage] - Clicked on login button
+2018-02-23T11:22:18.799 [iel] INFO  [com.iel.automation.testcases.LoginTest] - Test execution started
+2018-02-23T11:22:18.908 [iel] INFO  [com.iel.automation.pages.LoginPage] - Entered UserName
+2018-02-23T11:22:18.972 [iel] INFO  [com.iel.automation.pages.LoginPage] - Entered Password
+2018-02-23T11:22:26.400 [iel] INFO  [com.iel.automation.pages.LoginPage] - Clicked on login button
+2018-02-23T11:22:26.401 [iel] INFO  [com.iel.automation.testcases.LoginTest] - Test executed successfully
+2018-02-23T12:29:40.998 [iel] INFO  [com.iel.automation.testcases.LoginTest] - Test execution started
+2018-02-23T15:08:08.387 [iel] INFO  [com.iel.automation.pages.LoginPage] - Entered UserName
+2018-02-23T15:08:08.500 [iel] INFO  [com.iel.automation.pages.LoginPage] - Entered Password
+2018-02-23T15:08:16.492 [iel] INFO  [com.iel.automation.pages.LoginPage] - Clicked on login button
+2018-02-23T15:08:17.684 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Clicked on organization link
+2018-02-23T15:08:30.512 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Clicked on Add organization link
+2018-02-23T15:08:31.759 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Entered Organization Name
+2018-02-23T15:08:31.933 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Entered Organization custom Url 
+2018-02-23T15:08:32.105 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Entered first name 
+2018-02-23T15:08:32.241 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Entered Last name 
+2018-02-23T15:08:32.436 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Entered Email ID 
+2018-02-23T15:08:32.557 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Entered Default Password
+2018-02-23T15:08:32.649 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Selected IComposer 
+2018-02-23T15:08:32.752 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Selected IConstructor
+2018-02-23T15:08:32.859 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Clicked on Save button
+2018-02-23T15:08:43.007 [iel] INFO  [com.iel.automation.testcases.LoginTest] - Test execution started
+2018-02-23T15:08:43.187 [iel] INFO  [com.iel.automation.pages.LoginPage] - Entered UserName
+2018-02-23T15:08:43.292 [iel] INFO  [com.iel.automation.pages.LoginPage] - Entered Password
+2018-02-23T15:08:44.403 [iel] INFO  [com.iel.automation.pages.LoginPage] - Clicked on login button
+2018-02-23T15:09:05.469 [iel] INFO  [com.iel.automation.testcases.LoginTest] - Test execution started
+2018-02-23T15:09:05.608 [iel] INFO  [com.iel.automation.pages.LoginPage] - Entered UserName
+2018-02-23T15:09:05.702 [iel] INFO  [com.iel.automation.pages.LoginPage] - Entered Password
+2018-02-23T15:09:26.644 [iel] INFO  [com.iel.automation.pages.LoginPage] - Clicked on login button
+2018-02-23T15:09:26.644 [iel] INFO  [com.iel.automation.testcases.LoginTest] - Test executed successfully
+2018-02-23T16:31:15.847 [iel] INFO  [com.iel.automation.pages.LoginPage] - Entered UserName
+2018-02-23T16:31:15.954 [iel] INFO  [com.iel.automation.pages.LoginPage] - Entered Password
+2018-02-23T16:31:24.186 [iel] INFO  [com.iel.automation.pages.LoginPage] - Clicked on login button
+2018-02-23T16:31:25.411 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Clicked on organization link
+2018-02-23T16:31:36.825 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Clicked on Add organization link
+2018-02-23T16:31:39.103 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Entered Organization Name
+2018-02-23T16:31:39.277 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Entered Organization custom Url 
+2018-02-23T16:31:39.444 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Entered first name 
+2018-02-23T16:31:39.588 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Entered Last name 
+2018-02-23T16:31:39.863 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Entered Email ID 
+2018-02-23T16:31:39.990 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Entered Default Password
+2018-02-23T16:31:40.084 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Selected IComposer 
+2018-02-23T16:31:40.173 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Selected IConstructor
+2018-02-23T16:31:40.266 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Clicked on Save button
+2018-02-23T16:31:51.330 [iel] INFO  [com.iel.automation.testcases.LoginTest] - Test execution started
+2018-02-23T16:31:51.481 [iel] INFO  [com.iel.automation.pages.LoginPage] - Entered UserName
+2018-02-23T16:31:51.592 [iel] INFO  [com.iel.automation.pages.LoginPage] - Entered Password
+2018-02-23T16:31:52.919 [iel] INFO  [com.iel.automation.pages.LoginPage] - Clicked on login button
+2018-02-23T16:32:03.292 [iel] INFO  [com.iel.automation.testcases.LoginTest] - Test execution started
+2018-02-23T16:32:03.440 [iel] INFO  [com.iel.automation.pages.LoginPage] - Entered UserName
+2018-02-23T16:32:03.534 [iel] INFO  [com.iel.automation.pages.LoginPage] - Entered Password
+2018-02-23T16:32:11.439 [iel] INFO  [com.iel.automation.pages.LoginPage] - Clicked on login button
+2018-02-23T16:32:11.440 [iel] INFO  [com.iel.automation.testcases.LoginTest] - Test executed successfully
+2018-02-23T16:33:52.300 [iel] INFO  [com.iel.automation.pages.LoginPage] - Entered UserName
+2018-02-23T16:33:52.410 [iel] INFO  [com.iel.automation.pages.LoginPage] - Entered Password
+2018-02-23T16:34:01.534 [iel] INFO  [com.iel.automation.pages.LoginPage] - Clicked on login button
+2018-02-23T16:34:02.757 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Clicked on organization link
+2018-02-23T16:34:14.563 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Clicked on Add organization link
+2018-02-23T16:34:15.809 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Entered Organization Name
+2018-02-23T16:34:15.991 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Entered Organization custom Url 
+2018-02-23T16:34:16.160 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Entered first name 
+2018-02-23T16:34:16.300 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Entered Last name 
+2018-02-23T16:34:16.499 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Entered Email ID 
+2018-02-23T16:34:16.626 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Entered Default Password
+2018-02-23T16:34:16.705 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Selected IComposer 
+2018-02-23T16:34:16.805 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Selected IConstructor
+2018-02-23T16:34:16.893 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Clicked on Save button
+2018-02-23T16:34:27.196 [iel] INFO  [com.iel.automation.testcases.LoginTest] - Test execution started
+2018-02-23T16:34:27.346 [iel] INFO  [com.iel.automation.pages.LoginPage] - Entered UserName
+2018-02-23T16:34:27.475 [iel] INFO  [com.iel.automation.pages.LoginPage] - Entered Password
+2018-02-23T16:34:28.847 [iel] INFO  [com.iel.automation.pages.LoginPage] - Clicked on login button
+2018-02-23T16:34:38.939 [iel] INFO  [com.iel.automation.testcases.LoginTest] - Test execution started
+2018-02-23T16:34:39.083 [iel] INFO  [com.iel.automation.pages.LoginPage] - Entered UserName
+2018-02-23T16:34:39.177 [iel] INFO  [com.iel.automation.pages.LoginPage] - Entered Password
+2018-02-23T16:34:47.089 [iel] INFO  [com.iel.automation.pages.LoginPage] - Clicked on login button
+2018-02-23T16:34:47.090 [iel] INFO  [com.iel.automation.testcases.LoginTest] - Test executed successfully
+2018-02-23T16:40:07.805 [iel] INFO  [com.iel.automation.pages.LoginPage] - Entered UserName
+2018-02-23T16:40:07.881 [iel] INFO  [com.iel.automation.pages.LoginPage] - Entered Password
+2018-02-23T16:40:15.528 [iel] INFO  [com.iel.automation.pages.LoginPage] - Clicked on login button
+2018-02-23T16:40:16.953 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Clicked on organization link
+2018-02-23T16:40:31.640 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Clicked on Add organization link
+2018-02-23T16:40:31.840 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Entered Organization Name
+2018-02-23T16:40:32.502 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Entered Organization custom Url 
+2018-02-23T16:40:32.582 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Entered first name 
+2018-02-23T16:40:32.661 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Entered Last name 
+2018-02-23T16:40:32.757 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Entered Email ID 
+2018-02-23T16:40:32.827 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Entered Default Password
+2018-02-23T16:40:33.067 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Selected IComposer 
+2018-02-23T16:40:33.319 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Selected IConstructor
+2018-02-23T16:40:36.085 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Clicked on Save button
+2018-02-23T16:40:51.818 [iel] INFO  [com.iel.automation.testcases.LoginTest] - Test execution started
+2018-02-23T16:40:51.964 [iel] INFO  [com.iel.automation.pages.LoginPage] - Entered UserName
+2018-02-23T16:40:52.047 [iel] INFO  [com.iel.automation.pages.LoginPage] - Entered Password
+2018-02-23T16:40:53.345 [iel] INFO  [com.iel.automation.pages.LoginPage] - Clicked on login button
+2018-02-23T16:41:07.591 [iel] INFO  [com.iel.automation.testcases.LoginTest] - Test execution started
+2018-02-23T16:41:07.708 [iel] INFO  [com.iel.automation.pages.LoginPage] - Entered UserName
+2018-02-23T16:41:07.771 [iel] INFO  [com.iel.automation.pages.LoginPage] - Entered Password
+2018-02-23T16:41:15.587 [iel] INFO  [com.iel.automation.pages.LoginPage] - Clicked on login button
+2018-02-23T16:41:15.587 [iel] INFO  [com.iel.automation.testcases.LoginTest] - Test executed successfully
+2018-02-23T16:42:48.569 [iel] INFO  [com.iel.automation.pages.LoginPage] - Entered UserName
+2018-02-23T16:42:48.647 [iel] INFO  [com.iel.automation.pages.LoginPage] - Entered Password
+2018-02-23T16:42:54.788 [iel] INFO  [com.iel.automation.pages.LoginPage] - Clicked on login button
+2018-02-23T16:42:56.200 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Clicked on organization link
+2018-02-23T16:43:08.527 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Clicked on Add organization link
+2018-02-23T16:43:08.796 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Entered Organization Name
+2018-02-23T16:43:09.086 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Entered Organization custom Url 
+2018-02-23T16:43:09.191 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Entered first name 
+2018-02-23T16:43:09.281 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Entered Last name 
+2018-02-23T16:43:09.346 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Entered Email ID 
+2018-02-23T16:43:09.427 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Entered Default Password
+2018-02-23T16:43:09.669 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Selected IComposer 
+2018-02-23T16:43:09.908 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Selected IConstructor
+2018-02-23T16:43:14.016 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Clicked on Save button
+2018-02-23T16:43:24.070 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Verified Organization details saved successfully.
+2018-02-23T16:43:24.071 [iel] INFO  [com.iel.automation.testcases.AddOrganizationTest] - Test executed successfully
+2018-02-23T16:43:37.875 [iel] INFO  [com.iel.automation.testcases.LoginTest] - Test execution started
+2018-02-23T16:43:38.016 [iel] INFO  [com.iel.automation.pages.LoginPage] - Entered UserName
+2018-02-23T16:43:38.093 [iel] INFO  [com.iel.automation.pages.LoginPage] - Entered Password
+2018-02-23T16:43:39.223 [iel] INFO  [com.iel.automation.pages.LoginPage] - Clicked on login button
+2018-02-23T16:43:52.737 [iel] INFO  [com.iel.automation.testcases.LoginTest] - Test execution started
+2018-02-23T16:43:52.865 [iel] INFO  [com.iel.automation.pages.LoginPage] - Entered UserName
+2018-02-23T16:43:52.925 [iel] INFO  [com.iel.automation.pages.LoginPage] - Entered Password
+2018-02-23T16:44:01.089 [iel] INFO  [com.iel.automation.pages.LoginPage] - Clicked on login button
+2018-02-23T16:44:01.089 [iel] INFO  [com.iel.automation.testcases.LoginTest] - Test executed successfully
+2018-02-27T13:17:48.413 [iel] INFO  [com.iel.automation.testcases.LoginTest] - Test execution started
+2018-02-27T13:17:48.932 [iel] INFO  [com.iel.automation.pages.LoginPage] - Entered UserName
+2018-02-27T13:17:48.989 [iel] INFO  [com.iel.automation.pages.LoginPage] - Entered Password
+2018-02-27T13:17:51.062 [iel] INFO  [com.iel.automation.pages.LoginPage] - Clicked on login button
+2018-02-27T13:18:03.497 [iel] INFO  [com.iel.automation.testcases.LoginTest] - Test execution started
+2018-02-27T13:18:03.593 [iel] INFO  [com.iel.automation.pages.LoginPage] - Entered UserName
+2018-02-27T13:18:03.655 [iel] INFO  [com.iel.automation.pages.LoginPage] - Entered Password
+2018-02-27T13:18:11.266 [iel] INFO  [com.iel.automation.pages.LoginPage] - Clicked on login button
+2018-02-27T13:18:11.267 [iel] INFO  [com.iel.automation.testcases.LoginTest] - Test executed successfully
+2018-02-27T13:18:24.008 [iel] INFO  [com.iel.automation.pages.LoginPage] - Entered UserName
+2018-02-27T13:18:24.068 [iel] INFO  [com.iel.automation.pages.LoginPage] - Entered Password
+2018-02-27T13:18:30.666 [iel] INFO  [com.iel.automation.pages.LoginPage] - Clicked on login button
+2018-02-27T13:18:32.165 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Clicked on organization link
+2018-02-27T13:18:47.667 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Clicked on Add organization link
+2018-02-27T13:18:47.784 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Entered Organization Name
+2018-02-27T13:18:48.493 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Entered Organization custom Url 
+2018-02-27T13:18:48.563 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Entered first name 
+2018-02-27T13:18:48.624 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Entered Last name 
+2018-02-27T13:18:48.685 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Entered Email ID 
+2018-02-27T13:18:48.739 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Entered Default Password
+2018-02-27T13:18:48.965 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Selected IComposer 
+2018-02-27T13:18:49.192 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Selected IConstructor
+2018-02-27T13:18:54.431 [iel] INFO  [com.iel.automation.pages.OrganizationsPage] - Clicked on Save button

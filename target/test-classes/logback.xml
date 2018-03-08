@@ -1,0 +1,35 @@
+<configuration>
+  <conversionRule conversionWord="coloredLevel" converterClass="play.api.Logger$ColoredLevel" />
+  <appender name="FILE" class="ch.qos.logback.core.rolling.RollingFileAppender">
+    <file>./Output/Logs/iel_selenium.log</file>
+    <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+      <fileNamePattern>./Output/Logs/iel_selenium.%d{yyyy-MM-dd}.log</fileNamePattern>
+      <maxHistory>30</maxHistory>
+    </rollingPolicy>
+    <encoder>
+      <pattern>%d{yyyy-MM-dd'T'HH:mm:ss.SSS} [iel] %-5level [%class] - %msg%n</pattern>
+    </encoder>
+  </appender>
+  <appender name="perf" class="ch.qos.logback.core.rolling.RollingFileAppender">
+    <file>./Output/Logs/iel_selenium.perf.log</file>
+    <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+      <fileNamePattern>./Output/Logs/iel_selenium.perf.%d{yyyy-MM-dd}.log</fileNamePattern>
+      <maxHistory>30</maxHistory>
+    </rollingPolicy>
+    <encoder>
+      <pattern>%d{yyyy-MM-dd'T'HH:mm:ss.SSS} [iel] %msg%n</pattern>
+    </encoder>
+  </appender>
+  <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+    <encoder>
+      <pattern>%d{yyyy-MM-dd'T'HH:mm:ss.SSS} [iel] %-5level [%class] - %msg%n</pattern>
+    </encoder>
+  </appender>
+  <logger name="perf" level="DEBUG" additivity="true">
+    <appender-ref ref="perf" />
+  </logger>
+  <root level="INFO">
+    <appender-ref ref="STDOUT" />
+    <appender-ref ref="FILE" />
+  </root>
+</configuration>
